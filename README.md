@@ -227,7 +227,7 @@ Your new action will run any time a new commit is created or pushed to the remot
 <details id=X open>
 <summary><h2>Finish</h2></summary>
 
-_Congratulations friend, you've completed this course ✅!_ 
+_Congratulations friend, you've completed this course!_ 
 
 <img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
 
